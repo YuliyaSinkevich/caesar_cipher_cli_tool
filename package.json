@@ -1,0 +1,10 @@
+{
+  "name": "caesar_cipher_cli_tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yuliya Sinkevich",
+  "license": "MIT",
+  "devDependencies": {
+    "commander": "^5.0.0"
+  }
+}
