@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15be54ef-4f8b-46e3-b1ef-8d1d276eef7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/caesar_cipher_cli_tool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caesar_cipher_cli/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caesar_cipher_cli/src/cipher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caesar_cipher_cli/src/helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_cipher_cli/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_cipher_cli/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_cipher_cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_cipher_cli/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ZnVbquHfEsi593IRQLaGY7cqor" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Education\Node\caesar_cipher_cli_tool\caesar-cipher-cli" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15be54ef-4f8b-46e3-b1ef-8d1d276eef7a" name="Default Changelist" comment="" />
+      <created>1585474919740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585474919740</updated>
+      <workItem from="1585474920955" duration="37795000" />
+      <workItem from="1585568019992" duration="2676000" />
+      <workItem from="1585582319172" duration="11236000" />
+      <workItem from="1585593779261" duration="7601000" />
+      <workItem from="1585601402571" duration="224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="301" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1585480595785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="301" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1585480595785" />
+    <state x="546" y="198" key="CommitChangelistDialog2" timestamp="1585601674786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="546" y="198" key="CommitChangelistDialog2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1585601674786" />
+    <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1585514671877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1585514671877" />
+    <state x="799" y="415" key="Github.ShareDialog" timestamp="1585514902515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="799" y="415" key="Github.ShareDialog/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1585514902515" />
+    <state x="759" y="227" key="Github.UntrackedFilesDialog" timestamp="1585514925524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="227" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1585514925524" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1585488117813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1585488117813" />
+  </component>
+</project>

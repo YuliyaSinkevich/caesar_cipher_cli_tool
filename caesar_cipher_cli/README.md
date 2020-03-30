@@ -10,7 +10,7 @@ Then install dependencies:
 
 To use Caesar_cipher_cli_tool from command line write:
 
-`node caesar_cipher_cli_tool -a encode -s 8 -i "input.txt" -o "output.txt"`
+`node caesar_cipher_cli -a encode -s 8 -i "input.txt" -o "output.txt"`
 
 CLI tool accept 4 options (short alias and full name):
 ```
